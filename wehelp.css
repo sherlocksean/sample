@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+   background-color:darkgrey;
+   
+    }
+
+.title{
+background-color:black;
+border: 1px solid;
+font-family:MingLiU;
+top:0;
+line-height: 50px;
+font-size: 50px;
+font-weight: bold;
+color: white;
+margin: 0px 110px 5px 110px;
+align-items: center;
+text-align: center;
+border-style:solid;
+border-color:blacK;
+border-width:0.5px;
+}
+
+.question{
+background-color: black;
+text-align: center;
+margin: 0px 110px;
+font-weight: bold;
+font-size: 22px;
+color: white;
+font-family:MingLiU;
+border-style:solid;
+border-color:blacK;
+border-width:0.5px;
+}
+.ans{
+background-color:antiquewhite;    
+font-family:MingLiU;
+font-size: 18px;
+margin: 0px 110px 5px 110px;
+border-style:solid;
+border-color:blacK;
+border-width:0.5px;
+}
